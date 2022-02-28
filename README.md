@@ -3,7 +3,7 @@ Technical Exam
 Programing Language (NODE.JS - EXPRESS.JS)
 
 How to Replicate? 
-1. Clone the whole Repo
+1. Clone the whole Repository
 2. Import the Database (database/dwmorgan_db.sql) in postgres
 ![image](https://user-images.githubusercontent.com/45284888/155952243-ca219370-8ab6-438d-bcf8-61f717360c41.png)
 
