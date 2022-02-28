@@ -1,6 +1,6 @@
 # DWMorgan: Application (Backend Software Engineer)
-# Technical Exam
-# Programing Language (NODE.JS - EXPRESS.JS)
+Technical Exam
+Programing Language (NODE.JS - EXPRESS.JS)
 
 How to Replicate? 
 1. Clone the whole Repo
